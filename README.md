@@ -15,7 +15,7 @@ Este projeto é um exercício de onboarding para novos estagiários. Siga as ins
 
 ## Instruções para Estagiários
 
-### Estagiário 1
+### Estagiário 1 (Francisco Saulo)
 1. **Altere o título do cabeçalho**  
    No arquivo `components/Header.js`, mude o texto do `<h1>` para:  
    ```
@@ -23,12 +23,12 @@ Este projeto é um exercício de onboarding para novos estagiários. Siga as ins
    ```
 2. Faça commit e push das alterações em uma branch chamada `estagiario1`.
 
-### Estagiário 2
+### Estagiário 2 (Daiane Araújo)
 1. **Adicione um novo campo ao formulário de contato**  
    No arquivo `pages/contact.js`, adicione um campo de telefone (`Telefone:`) ao formulário, logo após o campo de email.
 2. Faça commit e push das alterações em uma branch chamada `estagiario2`.
 
-### Estagiário 3
+### Estagiário 3 (Kauan Márcio)
 1. **Altere o texto do NewComponent**  
    No arquivo `components/NewComponent.js`, mude o texto do `<h2>` para:  
    ```
@@ -40,7 +40,7 @@ Este projeto é um exercício de onboarding para novos estagiários. Siga as ins
    ```
 2. Faça commit e push das alterações em uma branch chamada `estagiario3`.
 
-### Estagiário 4
+### Estagiário 4 (Cauan Barbosa)
 1. **Adicione uma cor de fundo ao cabeçalho**  
    No arquivo `public/styles.css`, adicione uma regra para que o `<header>` tenha cor de fundo `#f0f0f0`.
 2. Importe o arquivo de estilos no componente `Header.js` se ainda não estiver importado.
