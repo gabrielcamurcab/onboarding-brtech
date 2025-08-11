@@ -15,6 +15,10 @@ const Contact = () => {
                     <input type="email" id="email" name="email" required />
                 </div>
                 <div>
+                    <label htmlFor="telephone">Telefone:</label>
+                    <input id="telephone" name="telephone" required></input>
+                </div>
+                <div>
                     <label htmlFor="message">Mensagem:</label>
                     <textarea id="message" name="message" required></textarea>
                 </div>
